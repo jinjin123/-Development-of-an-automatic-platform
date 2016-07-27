@@ -10,3 +10,4 @@ sixth: 监控现在写
 
 一共会更新三个版本，现在第一个版本很烂（个人水平太低...），先上班之后开始重构优化代码添加新功能升级为第二个版本（时间不确定），通过大半年的沉淀将在明年今日推出第三个版本^_^
 
+![image](https://github.com/jinjin123/Development-of-an-automatic-platform/raw/master/img-read/1.png)
